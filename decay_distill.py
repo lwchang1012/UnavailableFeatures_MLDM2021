@@ -146,6 +146,8 @@ def run_once(args):
 
 args = parse_args()
 exp_name = '-'.join([args.dataset, args.miss_type, 'decay_distill'])
+
+os.makedirs('result', exist_ok=True)
 result_file_path = os.path.join('result', exp_name + '.txt')
 
 AT_list = []            # AT = Accuracy of Teacher
