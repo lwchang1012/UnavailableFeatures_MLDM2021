@@ -4,6 +4,8 @@
 
 > Learning to Predict With Unavailable Features: an End-to-End Approach via Knowledge Transferring, Chun-Chen Lin, Li-Wei Chang, Chun-Pai Yang, Shou-De Lin, MLDM 2021
 
+See the "docs" directory in this repo for the main body and supplementary PDF files.
+
 ## Environment (recommended)
 
 - Python 3.6.9
